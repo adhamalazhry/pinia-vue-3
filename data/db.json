@@ -3,7 +3,8 @@
     {
       "id": 1,
       "title": "buy some milk",
-      "isFav": false
+      "isFav": false,
+      "ISFav": true
     },
     {
       "id": 2,
@@ -20,12 +21,11 @@
       "title": "play tens",
       "isFav": false
     },
-    
-  
     {
-      "title": "رايح سوهاج",
+      "title": "أشرف بن قلبي",
       "isFav": false,
-      "id": 978
+      "id": 765,
+      "ISFav": true
     }
   ]
 }

@@ -1,6 +1,7 @@
 <template>
   <div>
 <pinia-demo/>
+
   </div>
 </template>
 
